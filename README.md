@@ -1,2 +1,5 @@
-# ms-calculator-clone-webapp
-Microsoft Calculator Application Clone using HTML CSS JS
+## ms-calculator-clone-webapp
+A personal project to create Microsoft Calculator Clone using
+HTML CSS and JavaScript
+
+**Cheers :beer:**
