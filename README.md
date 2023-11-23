@@ -1,5 +1,6 @@
 # Microsoft Calculator WebApp Clone
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma&theme=light)](https://skillicons.dev)
+
 A personal project created by Mayur Mhatre to test my skills.
 I used [Figma] to design the calculator linked [here].
 
